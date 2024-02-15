@@ -1,0 +1,60 @@
+.sec-im1{
+   
+    margin: 40px;
+
+}
+.sec-im1 h4{
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 17px;
+  margin: 30px 10px;
+}
+.sec-im1 .im1{
+    text-align: center;
+}
+.sec-im1 .im1 h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    
+    margin: 30px 30px;
+
+}
+.sec-im1 .im1 p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    
+}
+.sec-im1 .im1 button{
+    
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    background-color: black;
+    color: #fff;
+    
+}
+.sec-im1 img{
+    width: 93%;
+}
+.slide-im1{
+    margin: 40px 20px;
+    padding: 20px;
+}
+.slide-im1 .slide1{
+    height: 500px;
+    width: 400px;
+}
+.slide1 img{
+    height: 500px;
+    width: 400px;
+}

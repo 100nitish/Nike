@@ -1,0 +1,49 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+.footer1 .li1{
+    margin: 30px;
+}
+.li1 ul{
+    list-style-type: none;
+}
+.li1 h4{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+.li1 ul li{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 10px;
+    color: grey;
+    font-weight: 500;
+    
+}
+.li1 ul li:hover{
+    color: white;
+    transform: 0.5s;
+}
+
+.footer2{
+    display: flex;
+    margin: 45px;
+}
+.footer2 i{
+    padding: 15px;
+    font-size: 25px;
+    color: grey;
+}
+.footer2 i:hover{
+    color: white;
+    transition: 0.5s;
+}

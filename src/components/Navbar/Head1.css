@@ -1,0 +1,25 @@
+
+
+.head1{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 240, 240);
+}
+.head1 .logo{
+    margin: 10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+.head1 .list ul{
+    display: flex;
+    list-style-type: none;
+    padding-right: 50px;
+    
+}
+.list ul li{
+    margin: 10px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 12px;
+}

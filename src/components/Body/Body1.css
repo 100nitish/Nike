@@ -1,0 +1,43 @@
+.sec1 img{
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 93%;
+}
+.sec2{
+    text-align: center;
+    padding: 50px;
+    
+}
+.sec2 h4{
+    font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 17px;
+  margin: 10px;
+}
+.sec2 h1{
+    font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 70px;
+  margin: 10px;
+  
+  
+}
+.sec2 p{
+    font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+}
+.sec2 button{
+    margin-top: 50px;
+    padding: 10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-size: 15px;
+}
